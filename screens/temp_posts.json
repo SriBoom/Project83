@@ -1,14 +1,10 @@
 [
     {
-        "author": "Lando Norris",
-        "caption": "Painting by me"
+        "author": "Apoorv Goyal",
+        "caption": "Caption 1"
     },
     {
-        "author": "Lewis Hamilton",
-        "caption": "@Lando Norris, I tried it too!"
-    },
-    {
-      "author":"Daniel Riccardo",
-      "caption":"Me too!"
+        "author": "Ayush Goyal",
+        "caption": "Caption 2"
     }
 ]
